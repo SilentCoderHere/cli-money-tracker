@@ -32,19 +32,19 @@ python tracker.py
 
 - **Add income:**
   ```sh
-  python tracker.py add-income --amount 1000 --note "Salary"
+  python main.py add-income --amount 1000 --note "Salary"
   ```
 - **Add expense:**
   ```sh
-  python tracker.py add-expense --amount 200 --note "Groceries"
+  python main.py add-expense --amount 200 --note "Groceries"
   ```
 - **View balance:**
   ```sh
-  python tracker.py balance
+  python main.py balance
   ```
 - **List transactions:**
   ```sh
-  python tracker.py history
+  python main.py history
   ```
 
 ## Technologies Used
