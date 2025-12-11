@@ -17,7 +17,7 @@ This project does **not** use any third-party libraries.
 Just clone the repository and run the script.
 
 ```sh
-git clone https://github.com/itzpremsingh/cli-money-tracker.git
+git clone https://github.com/silentcoderhere/cli-money-tracker.git
 cd cli-money-tracker
 ```
 
